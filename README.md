@@ -38,6 +38,7 @@
 
 | 文档 | 内容 |
 | --- | --- |
+| `default/economic-modeling-essence.md` | 经济建模的本质（逆向工程人性） |
 | `default/deliverables.md` | 经济建模交付物边界（实体/分析/生态/知识四层） |
 | `default/clarify-models.md` | 需求澄清思维模式 |
 | `default/design-models.md` | 机制设计思维模式 |
