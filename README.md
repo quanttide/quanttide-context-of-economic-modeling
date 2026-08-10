@@ -42,5 +42,6 @@
 | `default/deliverables.md` | 经济建模交付物边界（实体/分析/生态/知识四层） |
 | `default/clarify-models.md` | 需求澄清思维模式 |
 | `default/design-models.md` | 机制设计思维模式 |
+| `default/pragmatism-and-imagination.md` | 方案评析：务实且富有想象力（教学-考核-招聘-开源闭环） |
 | `mechanism/recuirtment-mechanism.md` | 招聘博弈机制深度分析 |
 | `decision/platform-investment.md` | 平台投资决策 |
